@@ -4,7 +4,7 @@ Sistema web desenvolvido com **Vue.js 3** e **Express.js**, voltado para empresa
 O projeto possui uma interface pública para apresentação de **serviços**, **equipamentos**, **projetos** e **manutenção**, além de um **painel administrativo** para gerenciamento do conteúdo e configurações do sistema.
 
 ---
-Você pode acessar o projeto rodando aqui: [[CS - Sistema Elétrico](https://seu-link-aqui.com](https://costa-simoes-website.netlify.app/))
+Você pode acessar o projeto rodando aqui: [(https://costa-simoes-website.netlify.app/)]
 
 ## 📋 Descrição
 
