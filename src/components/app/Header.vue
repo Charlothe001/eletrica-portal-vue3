@@ -6,7 +6,7 @@ export default{
 
 <template>
   <div class="container pb-2">
-    <img alt="Vue logo" class="logo pb-2" src="/public/img/raio-eletrico.jpg" width="125" height="125" />
+    <img alt="Vue logo" class="logo pb-2" src="/public/img/cs-oficial-titulo.jpg" width="125" height="125" />
 
     <div class="wrapper">
 

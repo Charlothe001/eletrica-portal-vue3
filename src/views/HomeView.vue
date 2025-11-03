@@ -5,7 +5,7 @@
     <section class="hero d-flex flex-column justify-content-center align-items-center text-white text-center py-5">
       <div class="container">
         <h1 class="display-5 fw-bold mb-3">
-          Excelência em Soluções Elétricas e Automação
+          39 Anos de excelência em Soluções Elétricas e Automação
         </h1>
         <p class="lead mb-4">
           Compromisso, qualidade e inovação em cada projeto elétrico que realizamos.
@@ -30,7 +30,7 @@
           <div class="col-md-6">
             <h2 class="text-primary fw-bold mb-3">Sobre a Empresa</h2>
             <p class="fs-5">
-              Referência em
+              Há quase quatro décadas, a <strong>Costa Simões</strong> é referência em
               montagem, manutenção e instalação de sistemas elétricos de alta performance.
               Oferecemos soluções sob medida, com foco em automação industrial e infraestrutura elétrica.
             </p>
